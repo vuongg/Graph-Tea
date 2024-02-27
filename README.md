@@ -1,2 +1,2 @@
-# Graph-Tea
-A testing for TEA
+# graph-tea
+graph-tea
